@@ -32,10 +32,10 @@ class AppSidebar extends StatelessWidget {
               child: Row(
                 children: [
                   ClipRRect(
-                    borderRadius: BorderRadius.circular(10),
+                    borderRadius: BorderRadius.circular(2),
                     child: Image.asset(
                       'assets/images/logo-mark.png',
-                      width: 44,
+                      width: 48,
                       height: 44,
                       fit: BoxFit.cover,
                     ),

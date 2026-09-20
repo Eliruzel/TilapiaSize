@@ -115,7 +115,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   label: 'Role',
                   child: TextField(
                     enabled: false,
-                    decoration: InputDecoration(hintText: 'Fish Farmer'),
+                    decoration: InputDecoration(hintText: 'User'),
                   ),
                 ),
                 const _LabeledField(
